@@ -207,7 +207,7 @@
     font-family: var(--ff-primary);
     font-size: var(--fs-heading);
     line-height: 1em;
-    margin: 20px 0 25px 0;
+    margin: 15px 0 25px 0;
  }
 
  .card__category {
