@@ -214,7 +214,7 @@ img {
 .container__figure {
   width: 100%;
   height: 15em;
-  background-image: url('/images/image-product-mobile.jpg');
+  background-image: url('../assets/images/image-product-mobile.jpg');
   background-size: cover;
   border-radius: 10px 10px 0 0;
 }
@@ -295,7 +295,7 @@ h2 {
 .icon {
   width: 1.06em;
   height: 1.06em;
-  background: url('/images/icon-cart.svg');
+  background: url('../assets/images/icon-cart.svg');
   background-size: cover;
   background-position: center;
   margin-right: 14px;
@@ -327,7 +327,7 @@ h2 {
 .container__figure  {
   width:50%;
   height: 100%;
-  background-image: url('/images/image-product-desktop.jpg');
+  background-image: url('../assets/images/image-product-desktop.jpg');
   background-size: cover;
   border-radius: 10px 0 0 10px;
 }
